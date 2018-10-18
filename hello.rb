@@ -9,3 +9,4 @@ gift = [
          ]
 puts "All I got for valentine's day was #{gift.sample}."
 puts "whatever you want"
+puts "This is a new line"
