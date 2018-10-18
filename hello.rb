@@ -8,3 +8,4 @@ gift = [
           "a visual prosthesis",
          ]
   puts "All I got for valentine's day was #{gift.sample}."
+ puts "whatever you want"
